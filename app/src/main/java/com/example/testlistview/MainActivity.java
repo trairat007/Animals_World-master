@@ -15,7 +15,7 @@ import com.example.testlistview.model.Animal;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
-    // komsan somwong 07570473
+    
     private ListView mListView;
     private ArrayList<Animal> mData;
 
@@ -62,4 +62,3 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
-// komsan somwong 07570473
