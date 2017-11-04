@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-// komsan somwong 07570473
+
 public class AnimalDetailsActivity extends AppCompatActivity {
 
     @Override
@@ -28,4 +28,3 @@ public class AnimalDetailsActivity extends AppCompatActivity {
 }
 
 
-// komsan somwong 07570473
